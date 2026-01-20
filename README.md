@@ -26,6 +26,8 @@ A Python-based professional graph plotting tool designed for university laborato
 ```bash
 pip install -r requirements.txt
 python grapher.py
+```  
+
 
 ## macOS Users
 

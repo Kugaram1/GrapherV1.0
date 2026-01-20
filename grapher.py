@@ -1,5 +1,18 @@
-'''Professional Lab Graph Tool with Multiple Graphs, Grid Toggle, Export Margins, Line Darkness'''
-'''Good one able to release this version with multiple graphs and all features working well'''
+"""
+Professional Lab Graph Tool (GrapherV1.0)
+
+Author: Muraleetharan Kugaram
+Year: 2026
+
+License: MIT License
+Copyright (c) 2026 Muraleetharan Kugaram
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software.
+"""
 import sys
 import numpy as np
 from PyQt5.QtWidgets import (
